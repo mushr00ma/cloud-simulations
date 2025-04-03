@@ -1,5 +1,5 @@
 '''
-Write a program to simulate CPU usage on cloud servers. When CPU usage exceeds a threshold, automatically "spawn" more instances using a listener function.
+Write a program to simulate CPU usage on cloud servers. When CPU usage exceeds a threshold, automatically "spawn" more instances using a listener function. 
 '''
 
 import random
