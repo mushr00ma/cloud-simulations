@@ -1,5 +1,5 @@
 '''
-Simulate user interaction with IaaS, PaaS, and SaaS layers using Python classes. Show how each model abstracts infrastructure differently with practical examples (e.g., hosting a web app).
+Simulate user interaction with IaaS, PaaS, and SaaS layers using Python classes. Show how each model abstracts infrastructure differently with practical examples (e.g., hosting a web app). 
 '''
 
 class IaaS:
