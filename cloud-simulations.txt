@@ -1,35 +1,29 @@
-1. Write a Python program that takes N worker nodes and distributes M tasks among them
-using round-robin scheduling. Simulate each node processing tasks and print results.
-2. Simulate task aggregation using Python's concurrent. Futures. Write a program that
-divides a large task (e.g., sum of N integers) among multiple grid nodes and merges the
-results.
-3. Create a Python class Virtualization that has methods to list benefits and drawbacks. Let
-users input scenarios, and the program should suggest if virtualization is beneficial.
-4. Write a function that takes hypervisor names as input (like "VMware ESXi", "KVM",
-"VirtualBox") and identifies whether it's Type 1 or Type 2 based on an internal dictionary.
-5. Simulate user interaction with IaaS, PaaS, and SaaS layers using Python classes. Show how
-each model abstracts infrastructure differently with practical examples (e.g., hosting a
-web app).
-6. Write a Python program that takes user input (security level, budget, scalability need) and
-recommends the most suitable deployment model: Public, Private, or Hybrid.
-7. Simulate sending packets with delays using Python's time module. Introduce artificial
-latency to demonstrate effects on cloud-based apps.
-8. Simulate synchronous and synchronous data replication using two dictionaries (source
-and replica). Show how data consistency is maintained or delayed based on replication
-type.
-9. Write a program to simulate CPU usage on cloud servers. When CPU usage exceeds a
-threshold, automatically "spawn" more instances using a listener function.
-10. Implement a round-robin load balancer in Python that distributes incoming requests to a
-list of servers. Simulate request processing and show server loads.
-11. Create a class VirtualServer that simulates basic virtual server operations (start, stop,
-reboot). Instantiate multiple servers and perform operations in parallel using threading.
-12. Write a Python program that simulates CPU, memory, and network usage of cloud
-instances using random values. Log the metrics over time and raise alerts if thresholds are
-crossed.
-13. Create a CLI program that allows a user to input storage needs (e.g., high availability, file
-storage, object storage, latency sensitivity), and recommends the appropriate cloud
-storage type (block, object, or file).
-14. Simulate a Least Connections algorithm for load balancing. Track the number of active
-connections to each server and assign new tasks to the server with the fewest.
-15. Simulate a simple failover system where if the primary server fails (randomly simulated),
-the system automatically redirects traffic to a secondary server and logs the event.
+1. Write a Python program that takes N worker nodes and distributes M tasks among them using round-robin scheduling. Simulate each node processing tasks and print results.
+
+2. Simulate task aggregation using Python's concurrent. Futures. Write a program that divides a large task (e.g., sum of N integers) among multiple grid nodes and merges the results.
+
+3. Create a Python class Virtualization that has methods to list benefits and drawbacks. Let users input scenarios, and the program should suggest if virtualization is beneficial.
+
+4. Write a function that takes hypervisor names as input (like "VMware ESXi", "KVM", "VirtualBox") and identifies whether it's Type 1 or Type 2 based on an internal dictionary.
+
+5. Simulate user interaction with IaaS, PaaS, and SaaS layers using Python classes. Show how each model abstracts infrastructure differently with practical examples (e.g., hosting a web app).
+
+6. Write a Python program that takes user input (security level, budget, scalability need) and recommends the most suitable deployment model: Public, Private, or Hybrid.
+
+7. Simulate sending packets with delays using Python's time module. Introduce artificial latency to demonstrate effects on cloud-based apps.
+
+8. Simulate synchronous and synchronous data replication using two dictionaries (source and replica). Show how data consistency is maintained or delayed based on replication type.
+
+9. Write a program to simulate CPU usage on cloud servers. When CPU usage exceeds a threshold, automatically "spawn" more instances using a listener function.
+
+10. Implement a round-robin load balancer in Python that distributes incoming requests to a list of servers. Simulate request processing and show server loads.
+
+11. Create a class VirtualServer that simulates basic virtual server operations (start, stop, reboot). Instantiate multiple servers and perform operations in parallel using threading.
+
+12. Write a Python program that simulates CPU, memory, and network usage of cloud instances using random values. Log the metrics over time and raise alerts if thresholds are crossed.
+
+13. Create a CLI program that allows a user to input storage needs (e.g., high availability, file storage, object storage, latency sensitivity), and recommends the appropriate cloud storage type (block, object, or file).
+
+14. Simulate a Least Connections algorithm for load balancing. Track the number of active connections to each server and assign new tasks to the server with the fewest.
+
+15. Simulate a simple failover system where if the primary server fails (randomly simulated), the system automatically redirects traffic to a secondary server and logs the event.
