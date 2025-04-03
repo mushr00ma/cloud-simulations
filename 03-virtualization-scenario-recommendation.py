@@ -1,3 +1,7 @@
+'''
+Create a Python class Virtualization that has methods to list benefits and drawbacks. Let users input scenarios, and the program should suggest if virtualization is beneficial.
+'''
+
 class Virtualization:
     benefits = ["Cost efficiency", "Scalability", "Resource optimization"]
     drawbacks = ["Performance overhead", "Security risks", "Complexity"]

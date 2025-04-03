@@ -1,3 +1,7 @@
+'''
+Write a Python program that takes user input (security level, budget, scalability need) and recommends the most suitable deployment model: Public, Private, or Hybrid.
+'''
+
 def recommend_deployment(security, budget, scalability):
     if security == "high" and budget == "high" and scalability == "high":
         return "Private Cloud is best for maximum security, control, and scalability."

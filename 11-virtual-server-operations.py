@@ -1,3 +1,7 @@
+'''
+Create a class VirtualServer that simulates basic virtual server operations (start, stop, reboot). Instantiate multiple servers and perform operations in parallel using threading.
+'''
+
 import threading
 import time
 import random

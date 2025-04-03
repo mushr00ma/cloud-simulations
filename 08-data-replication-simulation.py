@@ -1,3 +1,7 @@
+'''
+Simulate synchronous and synchronous data replication using two dictionaries (source and replica). Show how data consistency is maintained or delayed based on replication type.
+'''
+
 import time
 import threading
 

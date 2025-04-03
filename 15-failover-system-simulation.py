@@ -1,3 +1,7 @@
+'''
+Simulate a simple failover system where if the primary server fails (randomly simulated), the system automatically redirects traffic to a secondary server and logs the event.
+'''
+
 import random
 import time
 

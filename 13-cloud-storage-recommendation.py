@@ -1,3 +1,7 @@
+'''
+Create a CLI program that allows a user to input storage needs (e.g., high availability, file storage, object storage, latency sensitivity), and recommends the appropriate cloud storage type (block, object, or file).
+'''
+
 import time
 
 def recommend_storage(availability, storage_type, latency):

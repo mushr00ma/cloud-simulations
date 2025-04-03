@@ -1,3 +1,7 @@
+'''
+Simulate a Least Connections algorithm for load balancing. Track the number of active connections to each server and assign new tasks to the server with the fewest.
+'''
+
 import random
 import time
 
