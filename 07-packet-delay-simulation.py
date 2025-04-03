@@ -1,5 +1,5 @@
 '''
-Simulate sending packets with delays using Python's time module. Introduce artificial latency to demonstrate effects on cloud-based apps.
+Simulate sending packets with delays using Python's time module. Introduce artificial latency to demonstrate effects on cloud-based apps. 
 '''
 
 import time
