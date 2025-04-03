@@ -1,5 +1,5 @@
 '''
-Implement a round-robin load balancer in Python that distributes incoming requests to a list of servers. Simulate request processing and show server loads.
+Implement a round-robin load balancer in Python that distributes incoming requests to a list of servers. Simulate request processing and show server loads. 
 '''
 
 import time
