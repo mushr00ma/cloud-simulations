@@ -1,5 +1,5 @@
 '''
-Write a Python program that takes user input (security level, budget, scalability need) and recommends the most suitable deployment model: Public, Private, or Hybrid.
+Write a Python program that takes user input (security level, budget, scalability need) and recommends the most suitable deployment model: Public, Private, or Hybrid. 
 '''
 
 def recommend_deployment(security, budget, scalability):
