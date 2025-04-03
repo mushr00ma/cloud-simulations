@@ -1,5 +1,5 @@
 '''
-Write a Python program that simulates CPU, memory, and network usage of cloud instances using random values. Log the metrics over time and raise alerts if thresholds are crossed.
+Write a Python program that simulates CPU, memory, and network usage of cloud instances using random values. Log the metrics over time and raise alerts if thresholds are crossed. 
 '''
 
 import random
