@@ -1,3 +1,7 @@
+'''
+Simulate task aggregation using Python's concurrent. Futures. Write a program that divides a large task (e.g., sum of N integers) among multiple grid nodes and merges the results.
+'''
+
 import concurrent.futures
 
 def sum_range(start, end):

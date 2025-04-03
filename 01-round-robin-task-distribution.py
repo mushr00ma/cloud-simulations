@@ -1,6 +1,5 @@
 '''
-Write a Python program that takes N worker nodes and distributes M tasks among them
-using round-robin scheduling. Simulate each node processing tasks and print results.
+Write a Python program that takes N worker nodes and distributes M tasks among them using round-robin scheduling. Simulate each node processing tasks and print results.
 '''
 
 import time
