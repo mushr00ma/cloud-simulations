@@ -1,5 +1,5 @@
 '''
-Write a function that takes hypervisor names as input (like "VMware ESXi", "KVM", "VirtualBox") and identifies whether it's Type 1 or Type 2 based on an internal dictionary.
+Write a function that takes hypervisor names as input (like "VMware ESXi", "KVM", "VirtualBox") and identifies whether it's Type 1 or Type 2 based on an internal dictionary. 
 '''
 
 def hypervisor_type(name):
