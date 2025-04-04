@@ -29,5 +29,5 @@ This repository contains various **cloud computing simulations and algorithms**,
 ## **Setup & Usage**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Cloud-Infra-Simulations.git
-   cd Cloud-Infra-Simulations
+   git clone https://github.com/yourusername/cloud-simulations.git
+   cd cloud-simulations
