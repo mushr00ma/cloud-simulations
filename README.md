@@ -14,6 +14,7 @@ This repository contains various **cloud computing simulations and algorithms**,
 - **Hypervisor Type Identification**: Determines if a hypervisor (e.g., VMware, KVM) is Type 1 or Type 2.
 - **Virtual Server Operations**: Simulates virtual server operations (`start`, `stop`, `reboot`) using threading.
 
+ 
 ### **3️⃣ Data Replication & Networking**
 - **Synchronous vs. Asynchronous Replication**: Simulates how data consistency is maintained or delayed using dictionaries.
 - **Packet Transmission with Latency**: Introduces artificial network latency to simulate cloud-based app delays.
